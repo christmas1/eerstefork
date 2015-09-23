@@ -1,8 +1,8 @@
 # Site settings
-title: My Blog
-email: coolwebconfs@gmail.com
-description: My simple blog.
-baseurl: ""
+title: eerstefork
+email: suther.kane@gmail.com
+description: mijn eerste fork.
+baseurl: "/eerstefork"
 url: ""
 twitter_username: 
 avatar: "" # Set footer avatar
@@ -19,8 +19,8 @@ defaults:
       path: ""
       type: "posts"
     values:
-      author: "My Author" # Set default author name
-      categories: "cats"
+      author: "Me" # Set default author name
+      categories: "shait"
       layout: "post"
       comments: true
   -
